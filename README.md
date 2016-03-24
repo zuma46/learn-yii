@@ -1,2 +1,2 @@
-# learn yii
+# Learning Yii
 Yii Learning
